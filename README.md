@@ -10,7 +10,7 @@ I've integrated the Dosbox-X Voodoo emulator with components of the original 3df
 
 ## Running
 
-The only dependency is SDL. To install SDL, use `brew install libsdl2-dev` on Mac, or `sudo apt install sdl` on Linux  or WSL on Windows.
+The only dependency is SDL. To install SDL, use `brew install sdl` on Mac, or `sudo apt install libsdl2-dev` on Linux  or WSL on Windows.
 
 Then use `make` to build all the demos.
 ```
