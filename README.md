@@ -20,7 +20,12 @@ cube.cpp: A smooth rotating cube
 
 teapot.cpp: The classic Utah teapot with lighting effects
 
+https://github.com/user-attachments/assets/797c2e0a-169e-4c22-a931-1dc4ed47a739
+
 texcube.cpp: A texture-mapped rotating cube
+
+https://github.com/user-attachments/assets/f94c5fbd-1c50-4d5f-92eb-46100423361e
+
 
 ## Acknowledgements
 * Voodoo emulator by [Aaron Giles](https://aarongiles.com/programming/war-mame/).
