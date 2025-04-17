@@ -8,6 +8,16 @@ I've integrated the Dosbox-X Voodoo emulator with components of the original 3df
 
 ![](doc/voodoo_demos.drawio.svg)
 
+## Running
+
+The only dependency apart from a C++ compiler is SDL. To install SDL, use `brew install libsdl2-dev` on Mac, or `sudo apt install sdl` on Linux  or WSL on Windows.
+
+Then use `make` to build all the demos.
+```
+cd 3dfx_voodoo_demos
+make
+```
+
 ## Gallery
 
 triangle.cpp: Basic triangle rendering
